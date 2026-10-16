@@ -465,7 +465,7 @@ export default function LifeLab() {
           Big Boss
         </h1>
         <p className="font-mono text-sm text-cyan-100">
-          Cellular Automata Lab // runs fully in your browser, no data leaves it
+          Cellular Automata Lab 
         </p>
       </header>
 
